@@ -1,0 +1,2 @@
+# sCart
+Sample cart application
